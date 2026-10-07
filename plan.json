@@ -1,0 +1,2536 @@
+{
+ "version": 1,
+ "updated": "1.10.2026",
+ "s": [
+  "Algebra",
+  "Algorytmika i podstawy programowania",
+  "Analiza matematyczna 1",
+  "Fizyka I dla IS",
+  "Komputerowe wspomaganie projektowania",
+  "Narzędzia sztucznej inteligencji",
+  "Seminaria naukowe i współpraca z otoczeniem gospodarczym",
+  "Wprowadzenie do systemów operacyjnych"
+ ],
+ "g": {
+  "1": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr Rafał Ledzion",
+     "dr inż. Tomasz Wojtatowicz",
+     "dr inż. Agnieszka Krzemińska-Kowalska"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "11:30",
+    "13:00",
+    4,
+    "Lab",
+    "CTI B19 / 208",
+    "",
+    [
+     "mgr inż. Krzysztof Kubiak"
+    ]
+   ],
+   [
+    2,
+    "14:00",
+    "15:30",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:00",
+    "11:30",
+    0,
+    "Ćw",
+    "Lodex B9 / F4",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    3,
+    "12:15",
+    "13:45",
+    2,
+    "Ćw",
+    "Fizyka B14 / 1.05",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:45",
+    "14:00",
+    1,
+    "Lab",
+    "CTI B19 / 104",
+    "",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "15:30",
+    "17:00",
+    5,
+    "Ćw",
+    "CTI B19 / 206",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ]
+  ],
+  "2": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:30",
+    "12:00",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Mateusz Smoliński"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr Rafał Ledzion",
+     "dr inż. Tomasz Wojtatowicz",
+     "dr inż. Agnieszka Krzemińska-Kowalska"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "8:15",
+    "10:30",
+    1,
+    "Lab",
+    "CTI B19 / 104",
+    "",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    2,
+    "18:30",
+    "20:00",
+    4,
+    "Lab",
+    "CTI B19 / 108",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:00",
+    "11:30",
+    0,
+    "Ćw",
+    "Lodex B9 / F4",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    3,
+    "12:15",
+    "13:45",
+    2,
+    "Ćw",
+    "Fizyka B14 / 1.05",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "15:30",
+    "17:00",
+    5,
+    "Ćw",
+    "CTI B19 / 206",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ]
+  ],
+  "3": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Lodex B9 / F7",
+    "",
+    [
+     "dr Stanisław Wroński"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:45",
+    "12:15",
+    5,
+    "Ćw",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Krzysztof Lichy"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "10:45",
+    "13:00",
+    1,
+    "Lab",
+    "CTI B19 / 104",
+    "",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:15",
+    "11:45",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr inż. Agnieszka Krzemińska-Kowalska",
+     "dr Rafał Ledzion",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    3,
+    "12:00",
+    "13:30",
+    4,
+    "Lab",
+    "CTI B19 / 108",
+    "",
+    [
+     "mgr inż. Krzysztof Kubiak"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:00",
+    "12:30",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    4,
+    "13:45",
+    "15:15",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Mateusz Smoliński"
+    ]
+   ]
+  ],
+  "4": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Lodex B9 / F7",
+    "",
+    [
+     "dr Stanisław Wroński"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    0,
+    "16:15",
+    "17:45",
+    5,
+    "Ćw",
+    "CTI B19 / 108",
+    "",
+    [
+     "dr inż. Krzysztof Lichy"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "13:15",
+    "15:30",
+    1,
+    "Lab",
+    "CTI B19 / 104",
+    "",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    2,
+    "18:00",
+    "19:30",
+    7,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:15",
+    "11:45",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr inż. Agnieszka Krzemińska-Kowalska",
+     "dr Rafał Ledzion",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:00",
+    "12:30",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    4,
+    "13:00",
+    "14:30",
+    4,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Artur Hłobaż"
+    ]
+   ]
+  ],
+  "5": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:15",
+    "11:45",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    0,
+    "18:00",
+    "19:30",
+    4,
+    "Lab",
+    "Lodex B9 / 433",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    7,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Mateusz Smoliński"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "8:30",
+    "10:00",
+    5,
+    "Ćw",
+    "CTI B19 / 108",
+    "",
+    [
+     "dr inż. Krzysztof Lichy"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "12:15",
+    "13:45",
+    0,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jarosław Swaczyna"
+    ]
+   ],
+   [
+    3,
+    "15:30",
+    "17:00",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "prof. dr hab. inż Jolanta Prywer",
+     "dr inż. Michał Szmigielski",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:00",
+    "13:15",
+    1,
+    "Lab",
+    "Lodex B9 / 433",
+    "",
+    [
+     "dr inż. Jędrzej Mońko"
+    ]
+   ]
+  ],
+  "6": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:15",
+    "11:45",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    1,
+    "18:00",
+    "19:30",
+    7,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    2,
+    "10:45",
+    "13:00",
+    1,
+    "Lab",
+    "Fizyka B14 / 2.11",
+    "",
+    [
+     "dr Marcin Ostrowski"
+    ]
+   ],
+   [
+    2,
+    "13:15",
+    "14:45",
+    4,
+    "Lab",
+    "CTI B19 / 208",
+    "",
+    [
+     "mgr inż. Krzysztof Kubiak"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "12:15",
+    "13:45",
+    0,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jarosław Swaczyna"
+    ]
+   ],
+   [
+    3,
+    "15:30",
+    "17:00",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "prof. dr hab. inż Jolanta Prywer",
+     "dr inż. Michał Szmigielski",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "13:45",
+    "15:15",
+    5,
+    "Ćw",
+    "CTI B19 / 206",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ]
+  ],
+  "7": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:30",
+    "12:00",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "prof. dr hab. inż Jolanta Prywer",
+     "dr inż. Michał Szmigielski",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Fizyka B15 / F1",
+    "",
+    [
+     "mgr Krzysztof Jelito"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    1,
+    "16:15",
+    "17:45",
+    4,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:15",
+    "11:45",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Mateusz Smoliński"
+    ]
+   ],
+   [
+    3,
+    "12:00",
+    "13:30",
+    5,
+    "Ćw",
+    "Fizyka B14 / 2.11",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ],
+   [
+    3,
+    "13:45",
+    "16:00",
+    1,
+    "Lab",
+    "CTI B19 / 108",
+    "",
+    [
+     "dr Marcin Ostrowski"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "13:00",
+    "14:30",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ]
+  ],
+  "8": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:30",
+    "12:00",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "prof. dr hab. inż Jolanta Prywer",
+     "dr inż. Michał Szmigielski",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Fizyka B15 / F1",
+    "",
+    [
+     "mgr Krzysztof Jelito"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "8:30",
+    "10:00",
+    5,
+    "Ćw",
+    "Fizyka B14 / 2.11",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:00",
+    "12:15",
+    1,
+    "Lab",
+    "CTI B19 / 104",
+    "",
+    [
+     "dr Marcin Ostrowski"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:15",
+    "12:45",
+    4,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Artur Hłobaż"
+    ]
+   ],
+   [
+    4,
+    "13:00",
+    "14:30",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "dr Jerzy Pełczewski"
+    ]
+   ],
+   [
+    4,
+    "15:30",
+    "17:00",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Mateusz Smoliński"
+    ]
+   ]
+  ],
+  "9": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:00",
+    "12:15",
+    1,
+    "Lab",
+    "CTI B19 / 208",
+    "",
+    [
+     "prof. dr hab. Adam Niewiadomski"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "14:15",
+    "15:45",
+    0,
+    "Ćw",
+    "Fizyka B15 / F1",
+    "",
+    [
+     "mgr Patryk Nitkowski"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    2,
+    "18:00",
+    "19:30",
+    2,
+    "Ćw",
+    "Lodex B9 / F5",
+    "",
+    [
+     "mgr Jakub Łompieś"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "12:15",
+    "13:30",
+    5,
+    "Ćw",
+    "Fizyka B14 / 2.11",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ],
+   [
+    3,
+    "14:15",
+    "15:45",
+    7,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:30",
+    "13:00",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr inż. Tomasz Wojtatowicz",
+     "prof. dr hab. inż Jolanta Prywer",
+     "dr inż. Michał Szmigielski"
+    ]
+   ],
+   [
+    4,
+    "14:45",
+    "16:15",
+    4,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Artur Hłobaż"
+    ]
+   ]
+  ],
+  "10": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    0,
+    "16:15",
+    "17:45",
+    5,
+    "Ćw",
+    "CTI B19 / 108",
+    "",
+    [
+     "dr inż. Krzysztof Lichy"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    1,
+    "16:15",
+    "18:30",
+    1,
+    "Lab",
+    "Lodex B9 / 432",
+    "",
+    [
+     "prof. dr hab. Adam Niewiadomski"
+    ]
+   ],
+   [
+    2,
+    "14:15",
+    "15:45",
+    0,
+    "Ćw",
+    "Fizyka B15 / F1",
+    "",
+    [
+     "mgr Patryk Nitkowski"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    2,
+    "18:00",
+    "19:30",
+    2,
+    "Ćw",
+    "Lodex B9 / F5",
+    "",
+    [
+     "mgr Jakub Łompieś"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:15",
+    "11:45",
+    4,
+    "Lab",
+    "CTI B19 / 108",
+    "",
+    [
+     "mgr inż. Krzysztof Kubiak"
+    ]
+   ],
+   [
+    3,
+    "12:00",
+    "13:30",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "11:30",
+    "13:00",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr inż. Tomasz Wojtatowicz",
+     "prof. dr hab. inż Jolanta Prywer",
+     "dr inż. Michał Szmigielski"
+    ]
+   ]
+  ],
+  "11": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:30",
+    "12:00",
+    4,
+    "Lab",
+    "CTI B19 / 104",
+    "",
+    [
+     "dr inż. Artur Hłobaż"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "mgr Jakub Łompieś"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "12:00",
+    "13:30",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr inż. Tomasz Wojtatowicz",
+     "dr hab. inż. Magdalena Włodarska",
+     "mgr inż. Przemysław Dudek"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Lodex B9 / F7",
+    "",
+    [
+     "mgr Patryk Nitkowski"
+    ]
+   ],
+   [
+    3,
+    "12:30",
+    "14:45",
+    1,
+    "Lab",
+    "CTI B19 / 206",
+    "",
+    [
+     "dr inż. Roman Krasiukianis"
+    ]
+   ],
+   [
+    3,
+    "15:30",
+    "17:00",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "13:45",
+    "15:15",
+    5,
+    "Ćw",
+    "CTI B19 / 206",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ]
+  ],
+  "12": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    0,
+    "16:15",
+    "17:45",
+    4,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:15",
+    "11:45",
+    2,
+    "Ćw",
+    "Fizyka B14 / 0.25",
+    "",
+    [
+     "mgr Jakub Łompieś"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "8:30",
+    "10:00",
+    5,
+    "Ćw",
+    "Fizyka B14 / 2.11",
+    "",
+    [
+     "dr inż. Marcin Leplawy"
+    ]
+   ],
+   [
+    2,
+    "12:00",
+    "13:30",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "dr inż. Tomasz Wojtatowicz",
+     "dr hab. inż. Magdalena Włodarska",
+     "mgr inż. Przemysław Dudek"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Lodex B9 / F7",
+    "",
+    [
+     "mgr Patryk Nitkowski"
+    ]
+   ],
+   [
+    3,
+    "17:15",
+    "18:45",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "13:30",
+    "15:45",
+    1,
+    "Lab",
+    "Lodex B9 / 445",
+    "",
+    [
+     "dr inż. Roman Krasiukianis"
+    ]
+   ]
+  ],
+  "13": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Lodex B9 / F6",
+    "",
+    [
+     "dr inż. Violetta Lipińska"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:45",
+    "12:15",
+    5,
+    "Ćw",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "dr inż. Krzysztof Lichy"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "10:15",
+    "11:45",
+    2,
+    "Ćw",
+    "Lodex B9 / F4",
+    "",
+    [
+     "mgr Jakub Łompieś"
+    ]
+   ],
+   [
+    2,
+    "13:45",
+    "15:15",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "mgr inż. Przemysław Dudek",
+     "dr hab. inż. Magdalena Włodarska",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "10:00",
+    "12:15",
+    1,
+    "Lab",
+    "CTI B19 / 206",
+    "",
+    [
+     "dr inż. Roman Krasiukianis"
+    ]
+   ],
+   [
+    3,
+    "19:00",
+    "20:30",
+    7,
+    "Lab",
+    "CTI B19 / 106/107",
+    "",
+    [
+     "mgr inż. Błażej Dziuba"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "16:30",
+    "18:00",
+    4,
+    "Lab",
+    "Lodex B9 / 432",
+    "",
+    [
+     "dr inż. Artur Hłobaż"
+    ]
+   ]
+  ],
+  "14": [
+   [
+    0,
+    "8:00",
+    "10:05",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T9",
+    [
+     "dr inż. Marcin Kacprowicz"
+    ]
+   ],
+   [
+    0,
+    "10:15",
+    "11:45",
+    0,
+    "Ćw",
+    "Lodex B9 / F6",
+    "",
+    [
+     "dr inż. Violetta Lipińska"
+    ]
+   ],
+   [
+    0,
+    "12:15",
+    "13:45",
+    0,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr inż. Jacek Rogowski"
+    ]
+   ],
+   [
+    0,
+    "14:15",
+    "15:45",
+    2,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr hab. Marek Galewski"
+    ]
+   ],
+   [
+    1,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    1,
+    "10:00",
+    "12:15",
+    1,
+    "Lab",
+    "CTI B19 / 108",
+    "",
+    [
+     "dr inż. Roman Krasiukianis"
+    ]
+   ],
+   [
+    1,
+    "12:30",
+    "14:00",
+    7,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T1 - T7.5",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    2,
+    "8:30",
+    "10:00",
+    5,
+    "Ćw",
+    "CTI B19 / 108",
+    "",
+    [
+     "dr inż. Krzysztof Lichy"
+    ]
+   ],
+   [
+    2,
+    "10:15",
+    "11:45",
+    2,
+    "Ćw",
+    "Lodex B9 / F4",
+    "",
+    [
+     "mgr Jakub Łompieś"
+    ]
+   ],
+   [
+    2,
+    "13:45",
+    "15:15",
+    3,
+    "Lab",
+    "Fizyka B14 / 1.07",
+    "",
+    [
+     "mgr inż. Przemysław Dudek",
+     "dr hab. inż. Magdalena Włodarska",
+     "dr inż. Tomasz Wojtatowicz"
+    ]
+   ],
+   [
+    2,
+    "16:00",
+    "17:30",
+    3,
+    "Wykład",
+    "Lodex B9 / F10",
+    "",
+    [
+     "dr Rafał Ledzion"
+    ]
+   ],
+   [
+    3,
+    "8:15",
+    "9:45",
+    6,
+    "Sem",
+    "On-line",
+    "",
+    []
+   ],
+   [
+    3,
+    "12:30",
+    "14:00",
+    7,
+    "Lab",
+    "Lodex B9 / 434",
+    "",
+    [
+     "dr inż. Michał Karbowańczyk"
+    ]
+   ],
+   [
+    4,
+    "8:15",
+    "10:45",
+    1,
+    "Wykład",
+    "Lodex B9 / F10",
+    "T10 - T15 (6x)",
+    [
+     "dr Piotr Milczarski"
+    ]
+   ],
+   [
+    4,
+    "18:15",
+    "19:45",
+    4,
+    "Lab",
+    "Lodex B9 / 432",
+    "",
+    [
+     "dr inż. Artur Hłobaż"
+    ]
+   ]
+  ]
+ }
+}
